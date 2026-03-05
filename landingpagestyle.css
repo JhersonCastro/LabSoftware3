@@ -1,0 +1,24 @@
+.carousel-item img {
+      object-fit: cover;
+      height: 400px;
+    }
+    .card-img-top {
+      height: 200px;
+      object-fit: cover;
+    }
+    #specialty-description {
+      background-color: #f8f9fa;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      margin-bottom: 1.5rem;
+      border-left: 4px solid #0d6efd;
+    }
+    footer a {
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    .error-message {
+      font-size: 0.875em;
+    }
